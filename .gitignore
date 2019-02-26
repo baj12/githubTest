@@ -2,3 +2,5 @@
 .Rhistory
 .RData
 .Ruserdata
+contributions/*
+!contributions/folder1
